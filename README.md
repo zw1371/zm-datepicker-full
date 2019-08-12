@@ -24,15 +24,15 @@
 ```
 
 # 属性说明
-  . placeholder 占位文本
-  . mindate 可选择最小日期
-  maxdate 可选择最大日期
-  type 选择器类型
-    month:选取到月份
-    week:选取到周
-　　day:选取到天
-　　hour:选取到小时
-　　minute:选取到分钟(默认)
+  * placeholder 占位文本
+  * mindate 可选择最小日期
+  * maxdate 可选择最大日期
+  * type 选择器类型
+    * month:选取到月份
+    * week:选取到周
+　  * day:选取到天
+　　* hour:选取到小时
+　　* minute:选取到分钟(默认)
 
 # 事件说明
   事件名 select-time 
