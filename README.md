@@ -2,6 +2,9 @@
     vue日期控件(pc端)
     (具体效果图见：https://www.cnblogs.com/mrzhu/p/8632396.html)
 
+# 下载
+  npm install dm-vue-datepicker
+
 # 使用
 
 ```vue
