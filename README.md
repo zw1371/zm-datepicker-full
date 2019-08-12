@@ -45,7 +45,7 @@
 
 # select-time事件返回值data字段具体说明
     type是month
-    > data数据格式类型：
+    data数据格式类型：
       {
         date,//yyyy-MM格式日期
         day,//yyyy-MM-dd格式日期
@@ -53,7 +53,7 @@
       }
 
     type是week
-    > data数据格式类型：
+    data数据格式类型：
       {
         weekIndex:w,//当前周的索引
         monday:s,//当前选择的周的周一的日期 格式为yyyy-MM-dd
@@ -62,7 +62,7 @@
       } 
 
     type是day
-    > data数据格式类型：
+    data数据格式类型：
       {
         date,//yyyy-MM-dd格式数据
         day,//yyyy-MM-dd格式数据
@@ -70,7 +70,7 @@
       } 
 
     type是hour
-    > data数据格式类型：
+    data数据格式类型：
       {    
         date,//yyyy-MM-dd hh格式数据
         day,//yyyy-MM-dd格式数据
@@ -78,7 +78,7 @@
       }
 
     type是minute
-    > data数据格式类型：
+    data数据格式类型：
       {
         date,//yyyy-MM-dd hh:mm格式数据
         day,//yyyy-MM-dd格式数据
