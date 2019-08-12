@@ -1,7 +1,8 @@
 # zm-datepicker-full
     vue日期控件(pc端)
+    (具体效果图见：https://www.cnblogs.com/mrzhu/p/8632396.html)
 
-# 使用(具体效果图见：https://www.cnblogs.com/mrzhu/p/8632396.html)
+# 使用
 
 ```vue
 <zm-datepicker 
@@ -23,8 +24,8 @@
 ```
 
 # 属性说明
-  placeholder 占位文本
-  mindate 可选择最小日期
+  . placeholder 占位文本
+  . mindate 可选择最小日期
   maxdate 可选择最大日期
   type 选择器类型
     month:选取到月份
